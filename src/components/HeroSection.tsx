@@ -21,9 +21,7 @@ export default function HeroSection() {
                     </h1>
 
                     <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-                        I design and develop modern, intuitive web interfaces and strengthen them with thorough security
-                        testing, bridging the gap between beautiful front-end experiences and safe, reliable
-                        applications
+                        I build modern, intuitive web interfaces and reinforce them with strong security testing. I’m an undergraduate at the University of Moratuwa, Department of Computer Science and Engineering.
                     </p>
 
                     <div className="pt-4 opacity-0 animate-fade-in-delay-4">
